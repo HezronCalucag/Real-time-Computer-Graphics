@@ -1,0 +1,13 @@
+﻿  rtGraphics_3D.cpp
+C:\Users\Hezron Calucag\Desktop\Workshop3D\Intro_to_3D\rtGraphics_3D\rtGraphics_3D.cpp(4,10): fatal error C1083: Cannot open include file: 'glew/glew.h': No such file or directory
+  aiWrapper.cpp
+C:\Users\Hezron Calucag\Desktop\Workshop3D\Intro_to_3D\rtGraphics_3D\src\aiWrapper.h(3,10): fatal error C1083: Cannot open include file: 'assimp/Importer.hpp': No such file or directory
+  CGPrincipleAxes.cpp
+C:\Users\Hezron Calucag\Desktop\Workshop3D\Intro_to_3D\rtGraphics_3D\src\CGPrincipleAxes.h(4,10): fatal error C1083: Cannot open include file: 'CoreStructures\GUObject.h': No such file or directory
+  CGTexturedQuad.cpp
+C:\Users\Hezron Calucag\Desktop\Workshop3D\Intro_to_3D\rtGraphics_3D\src\CGTexturedQuad.h(4,10): fatal error C1083: Cannot open include file: 'CoreStructures\GUObject.h': No such file or directory
+  shader_setup.cpp
+C:\Users\Hezron Calucag\Desktop\Workshop3D\Intro_to_3D\rtGraphics_3D\src\shader_setup.h(8,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  texture_loader.cpp
+C:\Users\Hezron Calucag\Desktop\Workshop3D\Intro_to_3D\rtGraphics_3D\src\texture_loader.h(3,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  Generating Code...
